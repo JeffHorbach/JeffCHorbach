@@ -1,6 +1,6 @@
 JeffHorbach
 
-## Olá eu sou a Jefferson Horbach! 🖐
+## Olá eu sou Jefferson Horbach! 🖐
 
 - 👩‍💻 Atualmente trabalho com back-end 
 - 🎓 Graduando o 6º módulo em Análise e Desenvolvimento em Sistemas
